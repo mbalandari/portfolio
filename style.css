@@ -865,4 +865,8 @@ body {
     border-radius: 10px; /* Rounded corners */
     font-size: 12px; /* Increase font size */
   }
+
+  .nav {
+    z-index: 2;
+  }
 }
