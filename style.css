@@ -867,6 +867,6 @@ body {
   }
 
   .nav {
-    z-index: 2;
+    -webkit-overflow-scrolling: auto;
   }
 }
