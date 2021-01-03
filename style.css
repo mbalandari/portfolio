@@ -755,8 +755,10 @@ body {
 
   .inbox {
     background-image: url(images/hero2.jpg);
-    height: 100vh;
+    height: 80vh;
+  
   }
+  
 
   .txt1 {
     display: none;
